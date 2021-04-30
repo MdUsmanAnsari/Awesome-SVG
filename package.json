@@ -1,24 +1,33 @@
 {
-  "name": "Awesome SVG",
+  "name": "awesome-svg",
   "version": "1.0.0",
-  "description": "Create SVG Card using GET Request",
+  "description": "Create a Beautiful/Stylish Profile.",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "dev": "nodemon app.js"
-  },
-  "keywords": [
-    "SVG",
-    "Card",
-    "README"
-  ],
-  "author": "Md Usman Ansari",
-  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdUsmanAnsari/Awesome-SVG.git"
+  },
+  "keywords": [
+    "SVG",
+    "Card",
+    "README",
+    "Profile Card"
+  ],
+  "author": "Md Usman Ansari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MdUsmanAnsari/Awesome-SVG/issues"
+  },
+  "homepage": "https://github.com/MdUsmanAnsari/Awesome-SVG#readme"
 }

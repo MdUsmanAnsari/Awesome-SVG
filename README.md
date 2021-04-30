@@ -6,9 +6,9 @@
 <p align="center">
     <a href="#demo">View Demo</a>
     |
-    <a href=https://github.com/MdGhulamAzadAnsari/wow/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/MdUsmanAnsari/Awesome-SVG/issues/new/choose">Report Bug</a>
     |
-    <a href="https://github.com/MdGhulamAzadAnsari/wow//issues/new/choose">Request Feature</a>
+    <a href="https://github.com/MdUsmanAnsari/Awesome-SVG/issues/new/choose">Request Feature</a>
 </p>
 
 <br><br><br><br><br><br><br><br><br>
