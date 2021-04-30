@@ -4,7 +4,7 @@
     <p align="center">Create a Beautiful/Stylish Profile.</p>
 </p>
 <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="https://awesome-svg.netlify.app/">Generate API URL</a>
     |
     <a href="https://github.com/MdUsmanAnsari/Awesome-SVG/issues/new/choose">Report Bug</a>
     |
