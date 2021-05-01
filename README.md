@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100px" src="" align="center" alt="Wow" />
+    <img width="300px" src="./LOGO.png" align="center" alt="Wow" />
     <h2 align="center">Awesome SVG 😍</h2>
     <p align="center">Create a Beautiful/Stylish Profile.</p>
 </p>
