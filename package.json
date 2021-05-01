@@ -4,6 +4,7 @@
   "description": "Create a Beautiful/Stylish Profile.",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.21.1",
     "@vercel/node": "^1.10.0",
     "express": "^4.17.1"
   },
