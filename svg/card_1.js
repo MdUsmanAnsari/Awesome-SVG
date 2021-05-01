@@ -1,7 +1,8 @@
 const card_1 = ({ name, summary, style }) => {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="600" viewBox="0 0 1500 600">
             <defs>
-              <style>
+              <style  type="text/css">
+      
                 .background {
                   fill:#fafafa;
                   fill: ${style.backgroundColor};
